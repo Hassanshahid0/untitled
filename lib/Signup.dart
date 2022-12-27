@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:untitled/Alter_Dialog.dart';
 
 
-class login extends StatefulWidget
+class Signup extends StatefulWidget
 {
   @override
   State<StatefulWidget> createState()=>loginState();
@@ -12,13 +12,15 @@ class login extends StatefulWidget
 
 final _formKey = GlobalKey<FormState>();
 
-class loginState extends State<login> {
+class loginState extends State<Signup> {
   @override
   Widget build(BuildContext context) {
     TextEditingController emailcontroller = TextEditingController();
     TextEditingController passwordcontroller = TextEditingController();
+    TextEditingController confirm_passwordcontroller = TextEditingController();
     String _password = '';
     String _email = '';
+    String confirm_password = '';
 
 
 
@@ -42,7 +44,7 @@ class loginState extends State<login> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'login',
+                'Sign up',
                 style: TextStyle(
                   fontSize: 28.0,
                   fontWeight: FontWeight.bold,
@@ -173,6 +175,7 @@ class loginState extends State<login> {
 
                     if (_formKey.currentState!.validate()) {
                       _email = emailcontroller.text;
+
                       _password = passwordcontroller.text;
                     }
                     registration();
