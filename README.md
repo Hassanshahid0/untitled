@@ -30,8 +30,13 @@ For more information about this project, check out the following resources:
 ## Images
 
 Here are some screenshots of the app:
-![login](https://user-images.githubusercontent.com/106225281/209723159-fa3a5391-1d62-4ce7-900f-4e53e7347b44.jpeg)
-![loginpage](https://user-images.githubusercontent.com/106225281/209723194-be81baba-5201-4cbb-9380-ded8d0351114.jpeg)
+<img src="https://user-images.githubusercontent.com/106225281/209723159-fa3a5391-1d62-4ce7-900f-4e53e7347b44.jpeg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/106225281/209723194-be81baba-5201-4cbb-9380-ded8d0351114.jpeg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/106225281/209723159-fa3a5391-1d62-4ce7-900f-4e53e7347b44.jpeg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/106225281/209723159-fa3a5391-1d62-4ce7-900f-4e53e7347b44.jpeg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/106225281/209723159-fa3a5391-1d62-4ce7-900f-4e53e7347b44.jpeg" width="200" height="400">
+
+
 
 
 
