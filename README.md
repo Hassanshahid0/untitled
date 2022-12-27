@@ -30,10 +30,10 @@ For more information about this project, check out the following resources:
 ## Images
 
 Here are some screenshots of the app:
+![login](https://user-images.githubusercontent.com/106225281/209723159-fa3a5391-1d62-4ce7-900f-4e53e7347b44.jpeg)
+![loginpage](https://user-images.githubusercontent.com/106225281/209723194-be81baba-5201-4cbb-9380-ded8d0351114.jpeg)
 
-![Screenshot 1](https://www.example.com/screenshot1.png)
-![Screenshot 2](https://www.example.com/screenshot2.png)
-![Screenshot 3](https://www.example.com/screenshot3.png)
+
 
 ## Other Details
 
