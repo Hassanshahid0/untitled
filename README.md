@@ -26,6 +26,21 @@ For more information about this project, check out the following resources:
 - [Flutter documentation](https://flutter.dev/docs)
 - [Firebase documentation](https://firebase.google.com/docs)
 
+
+## Images
+
+Here are some screenshots of the app:
+
+![Screenshot 1](https://www.example.com/screenshot1.png)
+![Screenshot 2](https://www.example.com/screenshot2.png)
+![Screenshot 3](https://www.example.com/screenshot3.png)
+
+## Other Details
+
+- This project uses Flutter version 1.22.2 and Firebase version 7.3.0.
+- The project has been tested on Android and iOS devices.
+- The project follows the [Flutter style guide](https://flutter.dev/docs/development/tools/styleguide).
+
 ## Known Issues
 
 - If you encounter any issues with the chat feature, try logging out and logging back in. This should resolve the issue.
