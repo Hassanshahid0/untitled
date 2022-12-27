@@ -29,11 +29,9 @@ For more information about this project, check out the following resources:
 
 ## Images
 
-<img src="https://user-images.githubusercontent.com/106225281/209723159-fa3a5391-1d62-4ce7-900f-4e53e7347b44.jpeg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/106225281/209723159-fa3a5391-1d62-4ce7-900f-4e53e7347b44.jpeg" width="200" height="300">
 <img src="https://user-images.githubusercontent.com/106225281/209723194-be81baba-5201-4cbb-9380-ded8d0351114.jpeg" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/106225281/209723696-2a587bf0-a812-4078-851e-efea5cf0bbec.jpeg" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/106225281/209723729-30f4a5a7-5a14-4587-a2d4-4058c7d416c7.jpeg" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/106225281/209723791-bde631e7-cc55-41ac-9221-98e82b45b060.jpeg" width="200" height="400">
 
 
 
