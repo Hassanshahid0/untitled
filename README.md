@@ -53,5 +53,5 @@ I welcome contributions to this project. If you have an idea for a new feature o
 
 ## Credits
 
-- [Your Name](https://www.example.com): Project lead and developer
-- [Other Contributor](https://www.example.com): Developer
+- [Your Name](https://www.example.com): H@ssan Shahid
+
